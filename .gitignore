@@ -1,10 +1,10 @@
 .idea/
-vendor/
-modules/
-music/
-maps/
-logs/
-cache/
+/vendor/
+/modules/
+/music/
+/maps/
+/logs/
+/cache/
 
 config/*
 !config/default

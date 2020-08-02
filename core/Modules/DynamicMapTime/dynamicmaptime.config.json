@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "baseMedal": "gold",
+  "minMapTime": 120,
+  "maxMapTime": 900,
+  "timeMultiplier": 7,
+  "localRecords": {
+    "useAlways": false,
+    "useAsFallback": true,
+    "recordAvgStart": 1,
+    "recordAvgCount": 10,
+    "timeMultiplier": 10
+  }
+}
